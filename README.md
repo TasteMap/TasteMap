@@ -1,16 +1,26 @@
-### Hi there 👋
+대구 맛집을 소개하는 <대동맛지도>입니다👋!
 
-<!--
-**TasteMap/TasteMap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ 주요 기능 소개:
+📍 대구 맛집 검색
+📍 이용 고객 후기 
+📍 바로 맛집 예약 
 
-Here are some ideas to get you started:
+✨ 
+대구시 음싣점 공공데이터
+카카오맵 서비스 API
+구글 FullCalendar
+Security
+페이징
+좋아요
+스크랩
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ 사용:
+GitHub
+IntelliJ
+MySQL 
+MariaDB
+Thymeleaf
+Ajax
+JSON
+HTML5 CSS3 JavaScript Jquery Java SpringBoot 
+
