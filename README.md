@@ -24,5 +24,5 @@ Ajax
 JSON
 HTML5 CSS3 JavaScript Jquery Java SpringBoot 
 
-👩👩‍🦰👱‍♀️ : 지영(https://github.com/Jiyeong-github) 원영(https://github.com/AnWonYoung) 희주(https://github.com/HEEJU-a)
+👱‍♀️지영(https://github.com/Jiyeong-github) 👩‍🦰원영(https://github.com/AnWonYoung) 👩희주(https://github.com/HEEJU-a)
 
