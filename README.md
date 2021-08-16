@@ -6,7 +6,7 @@
 📍 바로 맛집 예약 
 
 ✨ 
-대구시 음싣점 공공데이터
+대구시 음식점 공공데이터
 카카오맵 서비스 API
 구글 FullCalendar
 Security
@@ -14,7 +14,7 @@ Security
 좋아요
 스크랩
 
-✨ 사용:
+✨ 스택:
 GitHub
 IntelliJ
 MySQL 
@@ -23,4 +23,6 @@ Thymeleaf
 Ajax
 JSON
 HTML5 CSS3 JavaScript Jquery Java SpringBoot 
+
+👩👩‍🦰👱‍♀️ : 지영(https://github.com/Jiyeong-github) 원영(https://github.com/AnWonYoung) 희주(https://github.com/HEEJU-a)
 
