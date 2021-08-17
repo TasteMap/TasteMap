@@ -40,6 +40,7 @@ Contact Us!
 ![Discord](https://img.shields.io/badge/%3C대동맛지도%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-![Jiyeong](https://img.shields.io/badge/Jiyeong-4285F4?style=for-the-badge&logo=google-fit&logoColor=#CCCCFF&link=https://github.com/Jiyeong-github)
- 👩‍🦰원영(https://github.com/AnWonYoung) 👩희주(https://github.com/HEEJU-a)
+![Jiyeong](https://img.shields.io/badge/Jiyeong-181717?style=for-the-badge&logo=github&logoColor=#CCCCFF&link=https://github.com/Jiyeong-github)
+![Wonyoung](https://img.shields.io/badge/Wongyoung-181717?style=for-the-badge&logo=github&logoColor=#6495ED&link=https://github.com/AnWonYoung)
+![Heeju](https://img.shields.io/badge/Heeju-181717?style=for-the-badge&logo=github&logoColor=#CCCCFF&link=https://github.com/HEEJU-a)
 
