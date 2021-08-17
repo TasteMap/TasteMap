@@ -19,7 +19,7 @@ Security
 
 ✨ 스택:
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=#DE3163)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
@@ -28,7 +28,7 @@ Security
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![ajax](https://img.shields.io/badge/Ajax-#DFFF00?style=flat-square&logo=javascript&logoColor=white)
+![ajax](https://img.shields.io/badge/Ajax-#DFFF00?style=for-the-badge&logo=javascript&logoColor=white)
 
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
@@ -40,6 +40,6 @@ Contact Us!
 ![Discord](https://img.shields.io/badge/%3C대동맛지도%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-![Jiyeong](https://img.shields.io/badge/Jiyeong?style=flat-square&logo=#4285F4&logoColor=#CCCCFF&link=https://github.com/Jiyeong-github)
+![Jiyeong](https://img.shields.io/badge/Jiyeong?style=for-the-badge&logo=#4285F4&logoColor=#CCCCFF&link=https://github.com/Jiyeong-github)
  👩‍🦰원영(https://github.com/AnWonYoung) 👩희주(https://github.com/HEEJU-a)
 
