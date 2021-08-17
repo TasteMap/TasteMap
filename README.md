@@ -41,3 +41,7 @@ Contact Us!
 
 👱‍♀️지영(https://github.com/Jiyeong-github) 👩‍🦰원영(https://github.com/AnWonYoung) 👩희주(https://github.com/HEEJU-a)
 
+<a href = "https://github.com/tastemap/tastemap/graphs/contributors">
+<img src = "https://contrib.rocks/image?repo = tastemap/tastemap"/></a>
+
+
