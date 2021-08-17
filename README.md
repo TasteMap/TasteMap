@@ -9,11 +9,12 @@
 📍 이용 고객 후기 
 📍 바로 맛집 예약 
 
-✨ 
+✨ 구현된 기능들 : 
 📍 대구시 음식점 공공데이터
 📍 카카오맵 서비스 API
 📍 구글 FullCalendar
-📍 Thymeleaf & Security
+📍 Thymeleaf 
+📍 Security
 📍 페이징
 📍 좋아요
 📍 스크랩
@@ -36,10 +37,6 @@
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-Contact Us!
-![Discord](https://img.shields.io/badge/%3C대동맛지도%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 Made with
 
