@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Taste%20Map&fontSize=90" />
+
+
 대구 맛집을 소개하는 <대동맛지도>입니다👋!
 
 ✨ 주요 기능 소개:
