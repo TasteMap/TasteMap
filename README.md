@@ -18,6 +18,9 @@ Security
 스크랩
 
 ✨ 스택:
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+</br>
 GitHub
 IntelliJ
 MySQL 
@@ -26,7 +29,7 @@ Thymeleaf
 Ajax
 JSON
 HTML5 CSS3 JavaScript Jquery Java SpringBoot 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/tastemap)
+
 
 👱‍♀️지영(https://github.com/Jiyeong-github) 👩‍🦰원영(https://github.com/AnWonYoung) 👩희주(https://github.com/HEEJU-a)
 
