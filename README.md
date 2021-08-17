@@ -25,10 +25,10 @@ Security
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript]	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=#F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![json] (https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![ajax] (https://img.shields.io/badge/Ajax-#DFFF00?style=flat-square&logo=javascript&logoColor=white)
+![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![ajax](https://img.shields.io/badge/Ajax-#DFFF00?style=flat-square&logo=javascript&logoColor=white)
 
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
@@ -40,9 +40,6 @@ Contact Us!
 ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-👱‍♀️지영(https://github.com/Jiyeong-github) 👩‍🦰원영(https://github.com/AnWonYoung) 👩희주(https://github.com/HEEJU-a)
-
-<a href = "https://github.com/tastemap/tastemap/graphs/contributors">
-<img src = "https://contrib.rocks/image?repo = tastemap/tastemap"/></a>
-
+![Jiyeong](https://img.shields.io/badge/Jiyeong?style=flat-square&logo=Google Fit&logoColor=#CCCCFF&link='https://github.com/Jiyeong-github')
+ 👩‍🦰원영(https://github.com/AnWonYoung) 👩희주(https://github.com/HEEJU-a)
 
