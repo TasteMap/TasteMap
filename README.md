@@ -19,7 +19,7 @@ Security
 
 ✨ 스택:
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compacthide=rust,phython,shell,GLSL)](https://github.com/tastemap)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compacthide=rust,phython,shell,GLSL,typescript)](https://github.com/tastemap)
 </br>
 GitHub
 IntelliJ
