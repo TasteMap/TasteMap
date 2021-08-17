@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Taste%20Map&fontSize=90" />
+<div align='center'>
 
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Taste%20Map&fontSize=90" />
 
 대구 맛집을 소개하는 <대동맛지도>입니다👋!
 
@@ -43,4 +44,5 @@ Made with
 ![Jiyeong](https://img.shields.io/badge/Jiyeong-CCCCFF?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Jiyeong-github)
 ![Wonyoung](https://img.shields.io/badge/Wongyoung-6495ED?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/AnWonYoung)
 ![Heeju](https://img.shields.io/badge/Heeju-40E0D0?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/HEEJU-a)
-
+  
+</div>
