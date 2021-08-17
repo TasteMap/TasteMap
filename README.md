@@ -26,6 +26,7 @@ Thymeleaf
 Ajax
 JSON
 HTML5 CSS3 JavaScript Jquery Java SpringBoot 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/tastemap)
 
 👱‍♀️지영(https://github.com/Jiyeong-github) 👩‍🦰원영(https://github.com/AnWonYoung) 👩희주(https://github.com/HEEJU-a)
 
