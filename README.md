@@ -1,3 +1,10 @@
+<style>
+    .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } 
+    .embed-container iframe, 
+    .embed-container object, 
+    .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+</style>
+
 <div align='center'>
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Taste%20Map&fontSize=90" />
@@ -22,6 +29,10 @@
   <p>📍 스크랩</p>
   
   ⭐️ 대동맛지도 맛보기
+  <div class="embed-container" >
+    <iframe src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0" allowfullscreen="" onclick="ga('send', 'event', 'post', 'click',       'youtubePlayer');">
+    </iframe>
+</div>
   <br/>
   {% include video id="ikpSPWVDaFE" provider="youtube" %}
   [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/ikpSPWVDaFE)
