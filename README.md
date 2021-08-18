@@ -7,18 +7,27 @@
 ✨ 주요 기능 소개:
 <p>📍 대구 맛집 검색</p>
 <p>📍 이용 고객 후기 </p>
-<p>📍 바로 맛집 예약  </p>
+<p>📍 바로 맛집 예약 </p>
 
 
 ✨ 구현된 기능들 : 
-📍 대구시 음식점 공공데이터
-📍 카카오맵 서비스 API
-📍 구글 FullCalendar
-📍 Thymeleaf 
-📍 Security
-📍 페이징
-📍 좋아요
-📍 스크랩
+  <p>📍 대구시 음식점 공공데이터</p>
+  <p>📍 카카오맵 서비스 API</p>
+  <p>📍 구글 FullCalendar</p>
+  <p>📍 Thymeleaf</p>
+  <p>📍 Security</p>
+  <p>📍 페이징</p>
+  <p>📍 좋아요</p>
+  <p>📍 스크랩</p>
+  
+  ⭐️ 대동맛지도 맛보기
+  <iframe src="https://youtu.be/ikpSPWVDaFE" style="width:100%; height:300px"/>
+  ✨ 희주 
+  <iframe src="https://youtu.be/8QwYkgwhgJI" style="width:100%; height:300px"/>
+  ✨ 원영
+  <iframe src="https://youtu.be/O_1mAbmjWPQ" style="width:100%; height:300px"/>
+  ✨ 지영
+  <iframe src="https://youtu.be/BiRncrvYHsw" style="width:100%; height:300px"/>
 
 ✨ 스택:
 
