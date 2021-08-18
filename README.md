@@ -23,6 +23,7 @@
   
   ⭐️ 대동맛지도 맛보기
   <br/>
+  {% include video id="ikpSPWVDaFE" provider="youtube" %}
   [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/ikpSPWVDaFE)
   <br/>
   ✨ 희주
