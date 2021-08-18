@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Taste%20Map&fontSize=90" />
 
 대구 맛집을 소개하는 <대동맛지도>입니다👋!
+<br/>
 
 ✨ 주요 기능 소개:
 <p>📍 대구 맛집 검색</p>
@@ -21,14 +22,13 @@
   <p>📍 스크랩</p>
   
   ⭐️ 대동맛지도 맛보기
-  <iframe src="https://youtu.be/ikpSPWVDaFE" style="width:100%; height:300px"/>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ikpSPWVDaFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   ✨ 희주 
-  <iframe src="https://youtu.be/8QwYkgwhgJI" style="width:100%; height:300px"/>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ikpSPWVDaFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   ✨ 원영
-  <iframe src="https://youtu.be/O_1mAbmjWPQ" style="width:100%; height:300px"/>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/O_1mAbmjWPQ?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   ✨ 지영
-  <iframe src="https://youtu.be/BiRncrvYHsw" style="width:100%; height:300px"/>
-
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/BiRncrvYHsw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ✨ 스택:
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=#DE3163)
