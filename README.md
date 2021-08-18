@@ -22,13 +22,13 @@
   <p>📍 스크랩</p>
   
   ⭐️ 대동맛지도 맛보기
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/ikpSPWVDaFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/ikpSPWVDaFE)
   ✨ 희주 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/ikpSPWVDaFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/8QwYkgwhgJI)
   ✨ 원영
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/O_1mAbmjWPQ?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/O_1mAbmjWPQ)
   ✨ 지영
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/BiRncrvYHsw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/BiRncrvYHsw)
 ✨ 스택:
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=#DE3163)
