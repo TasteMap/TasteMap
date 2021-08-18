@@ -22,13 +22,21 @@
   <p>📍 스크랩</p>
   
   ⭐️ 대동맛지도 맛보기
+  <br/>
   [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/ikpSPWVDaFE)
-  ✨ 희주 
+  <br/>
+  ✨ 희주
+  <br/>
   [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/8QwYkgwhgJI)
+  <br/>
   ✨ 원영
+  <br/>
   [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/O_1mAbmjWPQ)
+  <br/>
   ✨ 지영
+  <br/>
   [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/BiRncrvYHsw)
+  <br/>
 ✨ 스택:
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=#DE3163)
