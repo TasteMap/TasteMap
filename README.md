@@ -37,6 +37,7 @@
   <br/>
    [![대동맛지도](http://img.youtube.com/vi/BiRncrvYHsw/0.jpg)](https://youtu.be/BiRncrvYHsw&t=1s)
   <br/>
+  
 ✨ 스택:
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=#DE3163)
@@ -56,7 +57,8 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-Made with
+
+  ✨ 쩝쩝박사들:
 
 ![Jiyeong](https://img.shields.io/badge/Jiyeong-CCCCFF?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Jiyeong-github)
 ![Wonyoung](https://img.shields.io/badge/Wongyoung-6495ED?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/AnWonYoung)
