@@ -21,21 +21,21 @@
   <p>📍 좋아요</p>
   <p>📍 스크랩</p>
   
-  ⭐️ 대동맛지도 맛보기
+  ⭐️ 대동맛지도 전체보기
   <br/>
-  [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/ikpSPWVDaFE)
+[![대동맛지도](http://img.youtube.com/vi/lDCScEG4CmI/0.jpg)](https://youtu.be/lDCScEG4CmI&t=450s) 
   <br/>
   ✨ 희주
   <br/>
-  [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/8QwYkgwhgJI)
+ [![대동맛지도](http://img.youtube.com/vi/8QwYkgwhgJI/0.jpg)](https://youtu.be/8QwYkgwhgJI&t=3s)
   <br/>
   ✨ 원영
   <br/>
-  [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/O_1mAbmjWPQ)
+   [![대동맛지도](http://img.youtube.com/vi/O_1mAbmjWPQ/0.jpg)](https://youtu.be/O_1mAbmjWPQ&t=14s)
   <br/>
   ✨ 지영
   <br/>
-  [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/BiRncrvYHsw)
+   [![대동맛지도](http://img.youtube.com/vi/BiRncrvYHsw/0.jpg)](https://youtu.be/BiRncrvYHsw&t=1s)
   <br/>
 ✨ 스택:
 
